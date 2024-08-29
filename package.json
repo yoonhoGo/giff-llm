@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@inquirer/prompts": "^5.3.8",
+    "@langchain/core": "^0.2.31",
     "@langchain/ollama": "^0.0.4",
     "langchain": "^0.2.17",
     "simple-git": "^3.25.0"
